@@ -3,7 +3,7 @@
 A simple and responsive personal portfolio website built using HTML, CSS, and a touch of JavaScript. This project serves as a demonstration of my frontend development skills and showcases my journey from an Electronics & Communication Engineering background into software development.
 
 ##  🔗 Live Demo
-👉 [Visit Portfolio](https://meghana612-hub.github.io/My_personal_portfolio/)
+👉 [Visit Portfolio](https://meghana612-hub.github.io/Meghana_personal_portfolio/)
 
 ## ✨ Features
 
